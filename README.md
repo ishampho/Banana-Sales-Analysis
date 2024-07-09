@@ -22,6 +22,21 @@ The following tasks were performed
    - Reducing the columns to only those required for analysis
    - Adding new calculated field columns derived from the data present
 
-Exploratory Data Analysis (EDA)
-EDA involved exploring the Banana sales data to answer questions,such as:
+### Exploratory Data Analysis (EDA)
+
+EDA involved exploring the Banana sales data to answer questions that help in understanding the data, find trends and correlation and also generate hypothesis for further analysis. The following was observed:
+1. Banana has sold over 35,101 subscriptions for $693,025, with an average customer bringing in $312 each month.
+2. It is observed that there are some non-paying users since the number of users does not tally with the number of licences bought, an average of $20 is the sales per subscribers(this was derived by using the number of licenses bought) which is broken down by the subscriber type into $0 for basic, $10 for Premium, $25 for business and $27 for enterprise
+
+### Data Analytics
+
+1. With the existence of non-paying customers,the senior management is looking to identify upsell opportunities. Upsell means getting non-paying accounts to convert to paying accounts. In this dataset, the Subscription Type has four tiers. From worst to best, they are Basic, Premium, Business, and Enterprise. Based on futher analysis of the data, it's incredible that throughout the entire sales history, Bananas could have made over $272,000 had all their customers been paying. This is a big opportunity for them to make more money from existing customers even though  we can't go back in the past to collect this money.
+
+2. This begs for the question about which accounts should be targeted for upsell opportunities. The Upsell of the last month(Current Upsell) was determined for each group and grouped based on priority of upsell opportunities into into: High - >= 400,Medium - >=100, Low - <100
+
+3. 
+
+
+### Recommendation
+
 
