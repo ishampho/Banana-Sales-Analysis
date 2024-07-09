@@ -2,7 +2,7 @@
 
 ### PROJECT OVERVIEW
 
-This data analysis project aims to provide insights into the sales performance of a subscription based company over the past years. By analyzing various aspects of the data, we seek to identify trends and pick out useful information to make data driven recommendations about upselling of non-paying customers, forecast the future sales of the company and gain a deeper understanding of the company's performance and how improvement in its performance can drive the sales of the company further.
+This data analysis project aims to provide insights into the sales performance of a subscription based Software as a Service (SaaS) company over the past years. By analyzing various aspects of the data, we seek to identify trends and pick out useful information to make data driven recommendations about upselling of non-paying customers, forecast the future sales of the company and gain a deeper understanding of the company's performance and how improvement in its performance can drive the sales of the company further.
 
 ### Data Sources
 
