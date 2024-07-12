@@ -32,9 +32,9 @@ EDA involved exploring the Banana sales data to answer questions that help in un
 
 1. With the existence of non-paying customers,the senior management is looking to identify upsell opportunities. Upsell means getting non-paying accounts to convert to paying accounts. In this dataset, the Subscription Type has four tiers. From worst to best, they are Basic, Premium, Business, and Enterprise. Based on futher analysis of the data, it's incredible that throughout the entire sales history, Bananas could have made over $272,000 had all their customers been paying. This is a big opportunity for them to make more money from existing customers even though  we can't go back in the past to collect this money.
 
-2. This begs for the question about which accounts should be targeted for upsell opportunities. The Upsell of the last month(Current Upsell) was determined for each group and grouped based on priority of upsell opportunities into into: High - >= 400,Medium - >=100, Low - <100
-
-3. 
+2. This begs for the question about which accounts should be targeted for upsell opportunities. The Upsell of the last month(Current Upsell) was determined for each group and grouped based on priority of upsell opportunities into: High - >= 400,Medium - >=100, Low - <100
+3. Some trends were also observed in the sales trend wookbook, over the past months of the sales history from 07/01/2020-01/06/2021. There is an increase in the number of customers, an increase in the total sales but a reduction in the average sales and the ratio of non-paying to paying customers( this is as a result of increase in the number of customers converting to paying subscription and reduvtion in the enterprise sales share compared to that of business and premium which are increasing over the months).
+4. 
 
 
 ### Recommendation
