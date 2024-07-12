@@ -44,7 +44,7 @@ EDA involved exploring the Banana sales data to answer questions that help in un
 
 2. This begs for the question about which accounts should be targeted for upsell opportunities. The Upsell of the last month( Current Upsell, a total amount that could be earned if Bananas got every active non-paying user to upgrade their account) was determined for each group and grouped based on priority of upsell opportunities into: High - >= 400,Medium - >=100, Low - <100
 
-3. Some trends were also observed in the sales trend workbook, over the past months of the sales history from 07/01/2020-01/06/2021. There is an increase in the number of customers, an increase in the total sales but a reduction in the average sales and the ratio of non-paying to paying customers(this could be as a result of increase in the number of customers converting to paying subscription and a reduction in the enterprise sales share compared to that of business and premium increased over the months).
+3. Some trends were also observed in the sales trend worksheet, over the past months of the sales history from 07/01/2020-01/06/2021. There is an increase in the number of customers, an increase in the total sales but a reduction in the average sales and the ratio of non-paying to paying customers(this could be as a result of increase in the number of customers converting to paying subscription and a reduction in the enterprise sales share compared to that of business and premium increased over the months).
 
 4. Though the current upsell is insightful, it is unrealistic as Bananas cannot get 100% of customers to upgrade and they aim to achieve a target sales of $100000 next month? We can play around with the numbers with scenario analysis to see how much we think this is a more realistic sales opportunity. The following was observed:
 
@@ -64,7 +64,7 @@ EDA involved exploring the Banana sales data to answer questions that help in un
 1. In order to increase the company's revenue, Banana needs to upsell non-paying customers especially those in the "high" priority  upsell opportunities group. 
 2. A reduction in the enterprise sales share compared to that of business and premium could be corrected by creating strategies to encourage customers in this segment.
 3. Next month, the sales team would need a 24% growth rate to hit $100,000 in revenue. This canbe achieved by increasing the subscription prices of the upsell oppurtunity given that the number of subscrition upgrade does not reduce more than 5% premium,3% for business and 2% for enterprise subscriptions at prices of $15,
-$35 and $33 each respectively.( Further results of the relationship between manipulation of prices against the % drop in demand canbe checked in the scenerio analysis workbook).Of course, scenarios are not real world data, so while they can help drive strategy, they must be tested against the real world.
+$35 and $33 each respectively.( Further results of the relationship between manipulation of prices against the % drop in demand canbe checked in the scenerio analysis worksheet).Of course, scenarios are not real world data, so while they can help drive strategy, they must be tested against the real world.
 
 ### Reference
 www.datacamp.com
